@@ -1,0 +1,19 @@
+Assets												Creator				Link
+-----------------------------------------------------------------------------------------	----------------------		-----------------------------------------------------------------------
+1. Cozy Fishing Asset Pack									shubibubi			https://shubibubi.itch.io/cozy-fishing
+2. Cozy People Asset Pack									shubibubi			https://shubibubi.itch.io/cozy-people
+3. Cozy Farm Asset Pack										shubibubi			https://shubibubi.itch.io/cozy-farm
+4. Close Icon											Creative Stall Premium		https://www.flaticon.com/free-icon/close_800878
+5. Custom Mouse Cursor (based of off)								Custom Cursor			https://custom-cursor.com/en/collection/color-pixels/banana-mania-pixel
+
+Tutorial											Creator				Link
+-----------------------------------------------------------------------------------------	----------------------		-----------------------------------------------------------------------
+1. Learn to Create an RPG Game in Unity								James Doyle			https://www.udemy.com/course/unity2drpg/
+2. How to use and adjust 2D collider in Unity							Sunny Valley Studio		https://www.youtube.com/watch?v=eDOxDJEtE14
+3. How to Draw a Line in Unity | Line Renderer Tutorial 1					BLANKdev			https://www.youtube.com/watch?v=5ZBynjAsfwI
+4. How to Make 2D Arrow or Bomb Projectiles in Unity (Tutorial)					WeeklyHow			https://www.youtube.com/watch?v=hOdF0zn_IPA
+5. Adding a Gizmo To A GameObject								Christoffer Gustafsson		https://www.dragonborn.se/2019/07/09/unity-add-visibility-to-area-trigger-gameobjects/
+6. How to fix tilemap tearing and edges/gaps in a 2D Unity Project...				Alex Renard			https://www.youtube.com/watch?v=Wf98KrAyB2I
+7. Designing A Responsive Tooltip System in Unity						Game Dev Guide			https://www.youtube.com/watch?v=HXFoUGw7eKk
+8. Custom Cursors In Unity									bendux				https://www.youtube.com/watch?v=ELhg7ge2rIA
+9. How to make a Scrollable/Draggable Upgrade List or UI in Unity 2021! Using SCROLL RECT	CryptoGrounds			https://www.youtube.com/watch?v=1-_-716Ouy8
